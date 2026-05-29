@@ -55,7 +55,7 @@ Draw in the air with your dominant hand and manipulate your creations in real-ti
 ## 👨‍💻 Developer
 **Kartik Raj**  
 📸 Instagram: [@code.akshat.in](https://www.instagram.com/code.akshat.in/)  
-🐙 GitHub: [Axshatt](https://github.com/Kartikraj27)
+🐙 GitHub: [Axshatt](https://github.com/Kartikraj27/)
 
 ---
 *Built with passion for AI and Spatial Computing.*
